@@ -21,4 +21,14 @@ class Example
         return true;
         
     }
+
+    public static function wait()
+    {
+        if (true) {
+            return false;
+        }
+
+        return true;
+        
+    }
 }
