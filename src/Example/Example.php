@@ -31,4 +31,14 @@ class Example
         return true;
         
     }
+
+    public static function proceed()
+    {
+        if (true) {
+            return false;
+        }
+
+        return true;
+        
+    }
 }
